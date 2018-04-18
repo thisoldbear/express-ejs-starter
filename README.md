@@ -18,6 +18,6 @@ or
 
 ```sh
 $ npm run start
-``
+```
 
 Starts a server at `http://localhost:3000`
